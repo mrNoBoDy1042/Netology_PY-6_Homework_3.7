@@ -14,7 +14,7 @@ auth_data = {
 print('?'.join((AUTHORIZE_URL, urlencode(auth_data))))
 
 
-TOKEN = 'AQAAAAAQzwE6AASCQyOCc5IWME0CmkuxmJuybP0'
+TOKEN = 'insert your token here'
 
 class YMBase:
     MANAGEMENT_URL = 'https://api-metrika.yandex.ru/management/v1/'
